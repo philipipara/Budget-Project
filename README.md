@@ -3,12 +3,5 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 # Live Link
 
-https://money-track3r.herokuapp.com
+https://infinite-caverns-81357.herokuapp.com/
 
-# Primary Technologies Used
-
-IndexDB, Caching, Service-workers, Manifest
-
-# Budget-Tracker
-# Budget-Project
-# Budget-Project
